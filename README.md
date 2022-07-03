@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Ph33rr/Ph33rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ph33rr&show_icons=true&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph33rr&layout=compact&theme=dark"/>
+  </p><p>
+</p>
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ph33rr&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
+
