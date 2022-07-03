@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!--
 some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,7 +11,7 @@ some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ph33rr&show_icons=true&theme=dark"/>
